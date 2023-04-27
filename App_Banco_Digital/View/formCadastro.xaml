@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Banco_Digital.View.formCadastro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label>Nome</Label>
+            <Entry x:Name="txtNome" MaxLength="80"/>
+
+            <Label>Cpf</Label>
+            <Entry x:Name="txtCpf" Keyboard="Numeric" MaxLength="11"/>
+
+            <Label>Data de nascimento</Label>
+            <DatePicker x:Name="dpDataNasc" />
+            
+            <Label>Senha</Label>
+            <Entry x:Name="txtSenha" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

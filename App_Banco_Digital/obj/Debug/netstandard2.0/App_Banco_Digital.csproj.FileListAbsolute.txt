@@ -1,0 +1,15 @@
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.csproj.AssemblyReference.cache
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.GeneratedMSBuildEditorConfig.editorconfig
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\formCadastro.xaml.g.cs
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.AssemblyInfoInputs.cache
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.AssemblyInfo.cs
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.csproj.CoreCompileInputs.cache
+D:\julyo\App_Banco_Digital\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.deps.json
+D:\julyo\App_Banco_Digital\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.dll
+D:\julyo\App_Banco_Digital\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.pdb
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\XamlC.stamp
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.dll
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\refint\App_Banco_Digital.dll
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.pdb
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\ref\App_Banco_Digital.dll
