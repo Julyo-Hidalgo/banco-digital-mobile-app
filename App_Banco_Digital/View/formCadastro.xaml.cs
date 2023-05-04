@@ -16,5 +16,11 @@ namespace App_Banco_Digital.View
         {
             InitializeComponent();
         }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            
+            DisplayAlert("Sucesso", "Cadastro realizado!", "Ok");
+        }
     }
 }

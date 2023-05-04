@@ -17,6 +17,7 @@
             <Label>Senha</Label>
             <Entry x:Name="txtSenha" />
 
+            <Button Text="salvar" Clicked="Button_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
