@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using App_Banco_Digital.View;
+using App_Banco_Digital.View.Correntista;
 
 namespace App_Banco_Digital
 {
@@ -11,7 +11,7 @@ namespace App_Banco_Digital
         {
             InitializeComponent();
 
-            MainPage = new formCadastro();
+            MainPage = new NavigationPage(new formLogin());
         }
 
         protected override void OnStart()

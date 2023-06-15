@@ -1265,3 +1265,4 @@ D:\Juyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\stamp\_Generat
 D:\Juyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 D:\Juyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
 D:\Juyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll
+D:\Julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll

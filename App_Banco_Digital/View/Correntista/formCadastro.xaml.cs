@@ -4,8 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Xml.XPath;
 using Xamarin.Forms;
+using Xamarin.Forms.PlatformConfiguration.AndroidSpecific.AppCompat;
 using Xamarin.Forms.Xaml;
 
 namespace App_Banco_Digital.View.Correntista
@@ -22,15 +23,7 @@ namespace App_Banco_Digital.View.Correntista
         {
             Model.Correntista c = await CorrentistaDataService.save(new Model.Correntista{nome = txtNome.Text, cpf = txtCpf.Text,  data_nasc = dpDataNasc.Date, senha = txtSenha.Text });
 
-
-            await DisplayAlert("Sucesso", "Cadastro realizado!", "Ok");
-
-            {
-                txtNome.Text = "";
-                txtSenha.Text = "";
-                txtCpf.Text = "";
-                dpDataNasc.Date = DateTime.Now;
-            }
+            await Navigation.PushAsync(new View.Correntista.formLogin());
         }
     }
 }

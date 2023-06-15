@@ -20,5 +20,17 @@ namespace App_Banco_Digital.Service
 
             return JsonConvert.DeserializeObject<Correntista>(json);
         }
+
+        public static async Task<Correntista> login(Correntista c)
+        {
+            var json_a_enviar = JsonConvert.SerializeObject(c);
+
+            Console.WriteLine(json_a_enviar);
+
+            string json = await DataService.PostData(json_a_enviar, "/correntista/login");
+
+
+            return JsonConvert.DeserializeObject<Correntista>(json);
+        }
     }
 }

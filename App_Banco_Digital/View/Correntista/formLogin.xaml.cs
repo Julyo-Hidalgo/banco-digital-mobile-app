@@ -1,4 +1,5 @@
-﻿using System;
+﻿using App_Banco_Digital.Service;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,21 @@ namespace App_Banco_Digital.View.Correntista
         public formLogin()
         {
             InitializeComponent();
+        }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            Model.Correntista c = await CorrentistaDataService.save(new Model.Correntista { cpf = txtCpf.Text, senha = txtCpf.Text});
+
+            if (c.id != null)
+            {
+                await DisplayAlert("luquinhas copião", "luqinha" , "ok");
+            }
+        }
+
+        private void cadastro_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new NavigationPage(new formCadastro()));
         }
     }
 }
