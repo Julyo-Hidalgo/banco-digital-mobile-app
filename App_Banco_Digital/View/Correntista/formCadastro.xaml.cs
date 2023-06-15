@@ -23,6 +23,8 @@ namespace App_Banco_Digital.View.Correntista
         {
             Model.Correntista c = await CorrentistaDataService.save(new Model.Correntista{nome = txtNome.Text, cpf = txtCpf.Text,  data_nasc = dpDataNasc.Date, senha = txtSenha.Text });
 
+            await DisplayAlert("Sucesso", "Cadastro bem sucedido", "ok");
+
             await Navigation.PushAsync(new View.Correntista.formLogin());
         }
     }

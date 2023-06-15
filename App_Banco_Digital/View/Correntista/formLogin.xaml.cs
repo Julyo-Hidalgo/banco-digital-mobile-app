@@ -24,7 +24,7 @@ namespace App_Banco_Digital.View.Correntista
 
             if (c.id != null)
             {
-                await DisplayAlert("luquinhas", "" , "ok");
+                await DisplayAlert("Login bem sucedido", "Seja bem vindo " + c.nome, "ok");
             }
         }
 
