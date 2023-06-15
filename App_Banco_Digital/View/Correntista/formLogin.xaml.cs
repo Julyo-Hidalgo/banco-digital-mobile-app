@@ -20,17 +20,17 @@ namespace App_Banco_Digital.View.Correntista
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-            Model.Correntista c = await CorrentistaDataService.save(new Model.Correntista { cpf = txtCpf.Text, senha = txtCpf.Text});
+            Model.Correntista c = await CorrentistaDataService.login(new Model.Correntista { cpf = txtCpf.Text, senha = txtSenha.Text});
 
             if (c.id != null)
             {
-                await DisplayAlert("luquinhas copião", "luqinha" , "ok");
+                await DisplayAlert("luquinhas", "" , "ok");
             }
         }
 
         private void cadastro_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new NavigationPage(new formCadastro()));
+            Navigation.PushAsync(new formCadastro());
         }
     }
 }

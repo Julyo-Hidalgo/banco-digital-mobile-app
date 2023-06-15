@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 using App_Banco_Digital.Model;
 using Newtonsoft.Json;
+using Xamarin.Essentials;
 
 namespace App_Banco_Digital.Service
 {
@@ -17,8 +18,14 @@ namespace App_Banco_Digital.Service
 
         protected static async Task<string> PostData(string json_object, string rota)
         {
-            string uri = servidor + rota;
             string json_response = "";
+
+            string uri = servidor + rota;
+
+            if (Connectivity.NetworkAccess != NetworkAccess.Internet)
+            {
+                throw new Exception("Por favor, conecte-se à Internet.");
+            }
 
             using (HttpClient client = new HttpClient())
             {
@@ -27,13 +34,20 @@ namespace App_Banco_Digital.Service
                     new StringContent(json_object, Encoding.UTF8, "application/json")
                 );
 
-                if (response.IsSuccessStatusCode == true)
+                Console.WriteLine("_______________________________");
+                Console.WriteLine(response.Content.ReadAsStringAsync().Result);
+                Console.WriteLine("_______________________________");
+
+                if (response.IsSuccessStatusCode)
                 {
-                    json_response = response.Content.ReadAsStringAsync().Result;
+                    string conteudo = response.Content.ReadAsStringAsync().Result;
+
+                    json_response = conteudo;
                 }
             }
-
             return json_response;
+
         }
+
     }
 }
