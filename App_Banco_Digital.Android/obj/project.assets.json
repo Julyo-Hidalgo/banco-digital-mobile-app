@@ -3459,11 +3459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Julyo\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
+      "projectUniqueName": "D:\\Julyo lindo\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
       "projectName": "App_Banco_Digital.Android",
-      "projectPath": "D:\\Julyo\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
+      "projectPath": "D:\\Julyo lindo\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\Julyo\\App_Banco_Digital\\App_Banco_Digital.Android\\obj\\",
+      "outputPath": "D:\\Julyo lindo\\App_Banco_Digital\\App_Banco_Digital.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3484,8 +3484,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\Julyo\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj": {
-              "projectPath": "D:\\Julyo\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj"
+            "D:\\Julyo lindo\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj": {
+              "projectPath": "D:\\Julyo lindo\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj"
             }
           }
         }

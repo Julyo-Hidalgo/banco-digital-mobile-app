@@ -29,3 +29,19 @@ D:\Julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_
 D:\Julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\refint\App_Banco_Digital.dll
 D:\Julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.pdb
 D:\Julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\ref\App_Banco_Digital.dll
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.deps.json
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.dll
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.pdb
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.csproj.AssemblyReference.cache
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.GeneratedMSBuildEditorConfig.editorconfig
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\Correntista\formCadastro.xaml.g.cs
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\Correntista\formLogin.xaml.g.cs
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.AssemblyInfoInputs.cache
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.AssemblyInfo.cs
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.csproj.CoreCompileInputs.cache
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.dll
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\refint\App_Banco_Digital.dll
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.pdb
+D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\ref\App_Banco_Digital.dll

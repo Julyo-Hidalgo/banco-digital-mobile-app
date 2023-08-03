@@ -4,7 +4,7 @@
              x:Class="App_Banco_Digital.View.Correntista.formLogin">
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center" Padding="20">
-            <Label HorizontalOptions="Center" FontSize="Large">Cadastro de correntista:</Label>
+            <Label HorizontalOptions="Center" FontSize="Large">Login:</Label>
             
             <Label>CPF</Label>
             <Entry x:Name="txtCpf" Keyboard="Text" MaxLength="11"/>

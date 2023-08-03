@@ -20,12 +20,22 @@ namespace App_Banco_Digital.View.Correntista
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-            Model.Correntista c = await CorrentistaDataService.login(new Model.Correntista { cpf = txtCpf.Text, senha = txtSenha.Text});
+            try {
+                Model.Correntista c = await CorrentistaDataService.login(new Model.Correntista { cpf = txtCpf.Text, senha = txtSenha.Text });
 
-            if (c.id != null)
+                if (c.id != null)
+                {
+                    await DisplayAlert("Login bem sucedido", "Seja bem vindo " + c.nome, "ok");
+                }
+                else
+                {
+                    throw new Exception("Usuário não encontrado!");
+                }
+            }catch (Exception ex)
             {
-                await DisplayAlert("Login bem sucedido", "Seja bem vindo " + c.nome, "ok");
+                await DisplayAlert("Erro", ex.Message, "Ok");
             }
+            
         }
 
         private void cadastro_Clicked(object sender, EventArgs e)
