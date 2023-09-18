@@ -1926,3 +1926,29 @@ D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mip
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher_foreground.png
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher_monochrome.png
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-hdpi\ic_launcher.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-hdpi\ic_launcher_background.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-hdpi\ic_launcher_monochrome.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-mdpi\ic_launcher.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-mdpi\ic_launcher_background.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-mdpi\ic_launcher_monochrome.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xhdpi\ic_launcher.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xhdpi\ic_launcher_background.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xhdpi\ic_launcher_monochrome.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxhdpi\ic_launcher.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxhdpi\ic_launcher_background.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxhdpi\ic_launcher_monochrome.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher_background.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher_monochrome.png
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\android\src\mono\JavaInteropTypeManager.java
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\android\marshal_methods.arm64-v8a.o
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\android\marshal_methods.armeabi-v7a.o
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\android\marshal_methods.x86.o
+D:\julyo\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\android\marshal_methods.x86_64.o

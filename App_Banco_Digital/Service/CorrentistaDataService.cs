@@ -21,17 +21,17 @@ namespace App_Banco_Digital.Service
             return JsonConvert.DeserializeObject<Correntista>(json);
         }
 
-        public static async Task<Correntista> login(Correntista c)
+        public static async Task<Conta> login(Correntista c)
         {
             var json_a_enviar = JsonConvert.SerializeObject(c);
 
             Console.WriteLine(json_a_enviar);
 
-            string json = await DataService.PostData(json_a_enviar, "/correntista/entrar");
-            
+            string json = await PostData(json_a_enviar, "/correntista/entrar");
+
             Console.WriteLine(json);
 
-            return JsonConvert.DeserializeObject<Correntista>(json);
+            return JsonConvert.DeserializeObject<Conta>(json);
         }
     }
 }

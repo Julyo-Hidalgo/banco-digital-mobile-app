@@ -45,3 +45,4 @@ D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\refint\App_Banco_Digital.dll
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.pdb
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\ref\App_Banco_Digital.dll
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\Correntista\Area.xaml.g.cs

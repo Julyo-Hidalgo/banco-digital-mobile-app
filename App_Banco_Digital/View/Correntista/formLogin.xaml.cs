@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using App_Banco_Digital.View.Correntista;
 
 namespace App_Banco_Digital.View.Correntista
 {
@@ -21,11 +22,12 @@ namespace App_Banco_Digital.View.Correntista
         private async void Button_Clicked(object sender, EventArgs e)
         {
             try {
-                Model.Correntista c = await CorrentistaDataService.login(new Model.Correntista { cpf = txtCpf.Text, senha = txtSenha.Text });
+                Model.Conta conta = await CorrentistaDataService.login(new Model.Correntista { cpf = txtCpf.Text, senha = txtSenha.Text });
 
-                if (c.id != null)
+
+                if (conta.id_correntista != null)
                 {
-                    await DisplayAlert("Login bem sucedido", "Seja bem vindo " + c.nome, "ok");
+                    await Navigation.PushAsync(new Area(conta));
                 }
                 else
                 {
