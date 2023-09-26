@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.Correntista.formCadastro">
     <ContentPage.Content>
-        <StackLayout Margin="25" BackgroundColor="lightGray" Padding="10">
+        <StackLayout Style="{StaticResource  Background}">
             <Label HorizontalOptions="Center" FontSize="Large">Cadastro de correntista:</Label>
             <Label>Nome</Label>
             <Entry x:Name="txtNome" MaxLength="80"/>

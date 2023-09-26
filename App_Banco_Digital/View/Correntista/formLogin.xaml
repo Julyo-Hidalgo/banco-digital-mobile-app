@@ -3,14 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.Correntista.formLogin">
     <ContentPage.Content>
-        <StackLayout VerticalOptions="Center" Padding="20">
+        <StackLayout Style="{StaticResource  Background}">
             <Label HorizontalOptions="Center" FontSize="Large">Login:</Label>
-            
+
             <Label>CPF</Label>
-            <Entry x:Name="txtCpf" Keyboard="Text" MaxLength="11"/>
+            <Entry x:Name="txtCpf" Keyboard="Numeric" MaxLength="11" />
 
             <Label>Senha</Label>
-            <Entry x:Name="txtSenha" />
+            <Entry x:Name="txtSenha" IsPassword="True" />
 
             <Button Text="login" Clicked="Button_Clicked"/>
 
