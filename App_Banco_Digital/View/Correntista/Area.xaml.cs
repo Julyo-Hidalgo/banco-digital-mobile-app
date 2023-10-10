@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using App_Banco_Digital.Model;
+using App_Banco_Digital.View;
 
 namespace App_Banco_Digital.View.Correntista
 {
@@ -19,6 +20,11 @@ namespace App_Banco_Digital.View.Correntista
 
             NumConta.Text += Convert.ToString(conta.numero);
             Nome.Text += Convert.ToString(conta.saldo);
+        }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ChavePix.ChavePix());
         }
     }
 }

@@ -6,6 +6,8 @@
         <StackLayout Style="{StaticResource  Background}">
             <Label x:Name="NumConta" Text="Número da conta: " HorizontalOptions="Center" VerticalOptions="Center"/>
             <Label x:Name="Nome" Text="Saldo: " HorizontalOptions="Center" VerticalOptions="Center"/>
+
+            <Button Text="Pix" Clicked="Button_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
-</ContentPage> 
+</ContentPage>
