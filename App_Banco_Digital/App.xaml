@@ -4,7 +4,7 @@
              x:Class="App_Banco_Digital.App">
     <Application.Resources>
         <Style TargetType="Entry" x:Key="Background">
-            <Setter Property="BackgroundColor" Value="#00cc73"/>
+            <Setter Property="BackgroundColor" Value="White"/>
         </Style>
     </Application.Resources>
 </Application>

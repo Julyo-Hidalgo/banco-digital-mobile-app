@@ -5,6 +5,7 @@
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Digite a chave pix: "/>
+            <Entry x:Name="txtChave" Keyboard="Numeric" MaxLength="11" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

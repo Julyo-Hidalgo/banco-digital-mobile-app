@@ -25,7 +25,7 @@ namespace App_Banco_Digital.View.Correntista
 
             await DisplayAlert("Sucesso", "Cadastro bem sucedido", "ok");
 
-            await Navigation.PushAsync(new View.Correntista.formLogin());
+            await Navigation.PopAsync();
         }
     }
 }
