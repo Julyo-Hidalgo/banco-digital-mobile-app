@@ -40,6 +40,10 @@ namespace App_Banco_Digital.Service
 
                 if (response.IsSuccessStatusCode)
                 {
+                    Console.WriteLine("_______________________________");
+                    Console.WriteLine(response.StatusCode);
+                    Console.WriteLine("_______________________________");
+
                     string conteudo = response.Content.ReadAsStringAsync().Result;
 
                     json_response = conteudo;

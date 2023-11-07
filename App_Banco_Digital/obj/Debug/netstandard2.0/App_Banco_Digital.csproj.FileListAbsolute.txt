@@ -49,3 +49,4 @@ D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\Corre
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\ChavePix\ChavePix.xaml.g.cs
 D:\Julyo lindo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\Correntista\Area.xaml.g.cs
 D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\ChavePix\ChavePix.xaml.g.cs
+D:\julyo\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\View\ChavePix\formCadastroChavePix.xaml.g.cs

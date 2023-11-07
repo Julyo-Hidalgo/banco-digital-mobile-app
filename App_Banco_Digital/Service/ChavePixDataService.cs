@@ -10,14 +10,14 @@ namespace App_Banco_Digital.Service
 {
     public class ChavePixDataService : DataService
     {
-        public static async Task<ChavePix> SaveAsyncChavePix(ChavePix pix)
+        public static async Task<bool?> SaveAsyncChavePix(ChavePix pix)
         { 
             var json_enviar = JsonConvert.SerializeObject(pix);
 
-            string json = await DataService.PostData(json_enviar, "/conta/pix/save");
+            string json = await DataService.PostData(json_enviar, "/pix/save");
 
 
-            return JsonConvert.DeserializeObject<ChavePix>(json);
+            return JsonConvert.DeserializeObject<bool?>(json);
         }
     }
 }
