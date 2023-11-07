@@ -6,6 +6,8 @@
         <StackLayout>
             <Label Text="Digite a chave pix: "/>
             <Entry x:Name="txtChave" Keyboard="Numeric" MaxLength="11" />
+
+            <Button x:Name="btn_cadastrar" Text="Cadastrar chave" Clicked="Button_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

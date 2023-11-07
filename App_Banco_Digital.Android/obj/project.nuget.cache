@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J08zY2kbl0ti4/k52cCD1O+GHtpDJnwk8L3fnVOOBfSU9nQDQ5GJab8Y9EankAjEgi7qgdVLsFT2m4SxyzBfvA==",
+  "dgSpecHash": "9FU+rk+QCrU2Ll+9BhGpXv79Xh6UhmKqwfihDHe+Pd4VyjXVD/VDJdG2QE2iC0jsgiVOmqGHfd5gMhgfM+yv5A==",
   "success": true,
-  "projectFilePath": "D:\\Julyo lindo\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
+  "projectFilePath": "D:\\julyo\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

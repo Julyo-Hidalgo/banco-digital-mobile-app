@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4UXmq0B/IphNCqyhFN4j0gqGGqoWPJmmKI3ESvQkfyPLxA+4F5T1DIBNvTedHMziy1wdHVFeY0m0+6lZl+Je0g==",
+  "dgSpecHash": "rFXOSXhMBfevQ3MJ2HHlB1uUau8i4aVHyVPJltB5OxtvnRYt75MUov9/M4Gq4VAWAV6bp/yHipoqwI/z1PUyzQ==",
   "success": true,
-  "projectFilePath": "D:\\Julyo lindo\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj",
+  "projectFilePath": "D:\\julyo\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

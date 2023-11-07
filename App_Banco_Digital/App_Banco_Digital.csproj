@@ -11,11 +11,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="View\ChavePix\formCadastro.xaml.cs" />
+    <Compile Remove="View\ChavePix\Page1.xaml.cs" />
     <Compile Remove="View\Correntista\acesso.xaml.cs" />
     <Compile Remove="View\Correntista\Page1.xaml.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Remove="View\ChavePix\formCadastro.xaml" />
+    <EmbeddedResource Remove="View\ChavePix\Page1.xaml" />
     <EmbeddedResource Remove="View\Correntista\acesso.xaml" />
     <EmbeddedResource Remove="View\Correntista\Page1.xaml" />
   </ItemGroup>
@@ -28,6 +32,9 @@
 
   <ItemGroup>
     <EmbeddedResource Update="View\ChavePix\ChavePix.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="View\ChavePix\formCadastroChavePix.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="View\Correntista\Area.xaml">
