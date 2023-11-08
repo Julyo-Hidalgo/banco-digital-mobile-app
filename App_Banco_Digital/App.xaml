@@ -3,8 +3,33 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.App">
     <Application.Resources>
-        <Style TargetType="Entry" x:Key="Background">
+        
+        <Style TargetType="StackLayout" x:Key="BackgroundStackLayout">
             <Setter Property="BackgroundColor" Value="White"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="Spacing" Value="50"/>
+        </Style>
+        
+        <Style TargetType="Grid" x:Key="Background">
+            <Setter Property="BackgroundColor" Value="White"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="20"/>
+        </Style>
+        
+        <Style TargetType="Label" x:Key="alignLabel">
+            <Setter Property="HorizontalOptions" Value="Center" />
+            <Setter Property="VerticalOptions" Value="Center" />
+        </Style>
+
+        <Style TargetType="Entry" x:Key="alignEntry">
+            <Setter Property="VerticalOptions" Value="Center" />
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+        </Style>
+
+        <Style TargetType="Label" x:Key="alignButton">
+            <Setter Property="HorizontalOptions" Value="Center" />
+            <Setter Property="VerticalOptions" Value="Center" />
         </Style>
     </Application.Resources>
 </Application>

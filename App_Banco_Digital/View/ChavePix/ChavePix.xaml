@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.ChavePix.ChavePix">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Digite a chave pix: "/>
+        <StackLayout Style="{StaticResource Background}">
+            <Label Text="Digite a chave pix do destinatário: "/>
             <Entry x:Name="txtChave" Keyboard="Numeric" MaxLength="11" />
             <Label Text="Digite o valor: "/>
             <Entry x:Name="txtValor" Keyboard="Numeric" />

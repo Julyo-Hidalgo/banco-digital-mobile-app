@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.ChavePix.formCadastroChavePix">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout Style="{StaticResource Background}">
 
             <Label Text="Digite a chave pix: "/>
             <Entry x:Name="txtChave" Keyboard="Numeric" MaxLength="11"/>
