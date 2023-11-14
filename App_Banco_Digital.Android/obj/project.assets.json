@@ -3459,11 +3459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JUlyo lindão\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
+      "projectUniqueName": "D:\\julyo\\banco-digital-mobile-app\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
       "projectName": "App_Banco_Digital.Android",
-      "projectPath": "D:\\JUlyo lindão\\App_Banco_Digital\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
+      "projectPath": "D:\\julyo\\banco-digital-mobile-app\\App_Banco_Digital.Android\\App_Banco_Digital.Android.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\JUlyo lindão\\App_Banco_Digital\\App_Banco_Digital.Android\\obj\\",
+      "outputPath": "D:\\julyo\\banco-digital-mobile-app\\App_Banco_Digital.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3484,8 +3484,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\JUlyo lindão\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj": {
-              "projectPath": "D:\\JUlyo lindão\\App_Banco_Digital\\App_Banco_Digital\\App_Banco_Digital.csproj"
+            "D:\\julyo\\banco-digital-mobile-app\\App_Banco_Digital\\App_Banco_Digital.csproj": {
+              "projectPath": "D:\\julyo\\banco-digital-mobile-app\\App_Banco_Digital\\App_Banco_Digital.csproj"
             }
           }
         }
@@ -3498,9 +3498,21 @@
             "target": "Package",
             "version": "[13.0.3, )"
           },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
+          },
+          "Xamarin.Essentials": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

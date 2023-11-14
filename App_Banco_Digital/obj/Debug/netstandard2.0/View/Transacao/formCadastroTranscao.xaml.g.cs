@@ -8,13 +8,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App_Banco_Digital.View.ChavePix.ChavePix.xaml", "View/ChavePix/ChavePix.xaml", typeof(global::App_Banco_Digital.View.ChavePix.ChavePix))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App_Banco_Digital.View.Transacao.formCadastroTranscao.xaml", "View/Transacao/formCadastroTranscao.xaml", typeof(global::App_Banco_Digital.View.Transacao.formCadastroTranscao))]
 
-namespace App_Banco_Digital.View.ChavePix {
+namespace App_Banco_Digital.View.Transacao {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\ChavePix\\ChavePix.xaml")]
-    public partial class ChavePix : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\Transacao\\formCadastroTranscao.xaml")]
+    public partial class formCadastroTranscao : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Entry txtChave;
@@ -26,15 +26,11 @@ namespace App_Banco_Digital.View.ChavePix {
         private global::Xamarin.Forms.Button btn_transacao;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Button btn_cadastrar;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ChavePix));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(formCadastroTranscao));
             txtChave = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "txtChave");
             txtValor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "txtValor");
             btn_transacao = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn_transacao");
-            btn_cadastrar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn_cadastrar");
         }
     }
 }

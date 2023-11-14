@@ -69,3 +69,23 @@ D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\Ap
 D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.csproj.CoreCompileInputs.cache
 D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\XamlC.stamp
 D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital\obj\Debug\netstandard2.0\ref\App_Banco_Digital.dll
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.deps.json
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.dll
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\bin\Debug\netstandard2.0\App_Banco_Digital.pdb
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.csproj.AssemblyReference.cache
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.GeneratedMSBuildEditorConfig.editorconfig
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\ChavePix\formCadastroChavePix.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\Correntista\Area.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\Correntista\formCadastro.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\Correntista\formLogin.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.AssemblyInfoInputs.cache
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.AssemblyInfo.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.csproj.CoreCompileInputs.cache
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\XamlC.stamp
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.dll
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\refint\App_Banco_Digital.dll
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.pdb
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\ref\App_Banco_Digital.dll
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\ChavePix\AreaChavePix.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\Transacao\formCadastroTranscao.xaml.g.cs

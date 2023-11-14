@@ -27,7 +27,7 @@ namespace App_Banco_Digital.View.Correntista
 
                 if (conta.id_correntista != null)
                 {
-                    await Navigation.PushAsync(new Area(conta));
+                    Navigation.PushAsync(new Area(conta));
                 }
                 else
                 {
@@ -40,9 +40,9 @@ namespace App_Banco_Digital.View.Correntista
             
         }
 
-        private void cadastro_Clicked(object sender, EventArgs e)
+        private async void cadastro_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new formCadastro());
+            await Navigation.PushAsync(new formCadastro());
         }
     }
 }

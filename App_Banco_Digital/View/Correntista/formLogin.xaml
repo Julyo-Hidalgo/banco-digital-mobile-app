@@ -3,16 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.Correntista.formLogin">
     <ContentPage.Content>
-        <StackLayout Style="{StaticResource BackgroundStackLayout}">
+        <StackLayout Style="{StaticResource BackgroundStackLayout}" Spacing="50">
             <Label Style="{StaticResource alignLabel}" FontSize="Large">Login:</Label>
 
             <Entry Style="{StaticResource alignEntry}" x:Name="txtCpf" Keyboard="Numeric" MaxLength="11" Placeholder="Digite seu CPF"/>
 
             <Entry Style="{StaticResource alignEntry}" x:Name="txtSenha" IsPassword="True" Placeholder="Digite sua senha"/>
 
-            <Button Text="login" Style="{StaticResource alignButton}" Clicked="Button_Clicked"/>
+            <Button Text="login" Style="{StaticResource alignButton}" FontSize="Default" Clicked="Button_Clicked"/>
 
-            <Button Text="Crie uma conta" x:Name="cadastro" Style="{StaticResource alignButton}" Clicked="cadastro_Clicked"/>
+            <Button Text="Crie uma conta" x:Name="cadastro" Style="{StaticResource alignButton}" FontSize="Default" Clicked="cadastro_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

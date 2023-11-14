@@ -22,18 +22,5 @@ namespace App_Banco_Digital.View.ChavePix
         {
             await Navigation.PushAsync(new formCadastroChavePix());
         }
-
-        private void btn_transacao_Clicked(object sender, EventArgs e)
-        {
-            Transacao transacao = new Transacao();
-            transacao.valor = double.Parse(txtValor.Text);
-
-            int id_conta_destinario = 0;
-            int id_conta_remetente = 0;//id da conta usada
-
-            TransacaoCorrentistaAssoc transacaoCorrentista = new TransacaoCorrentistaAssoc();
-            transacaoCorrentista.id_conta_remetente = id_conta_remetente;
-            transacaoCorrentista.id_conta_destinatario = id_conta_destinario;
-        }
     }
 }

@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.Correntista.Area">
     <ContentPage.Content>
-        <Grid Style="{StaticResource  Background}">
+        <Grid Style="{StaticResource Background}">
             <Grid.RowDefinitions>
                 <RowDefinition />
                 <RowDefinition />
@@ -13,10 +13,27 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            
-            <Label x:Name="NumConta" Text="Número da conta: " HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0"/>
-            <Label x:Name="Nome" Text="Saldo: " HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="1"/>
-            <Button Text="Pix" Clicked="Button_Clicked" Grid.Row="2"/>
+
+            <StackLayout Style="{StaticResource  BackgroundStackLayout}" Grid.Row="0" Orientation="Horizontal" BackgroundColor="Black">
+                <Button Style="{StaticResource  alignButton}" Text="Trocar conta"/>
+                
+                <Button Style="{StaticResource  alignButton}" Text="Pix" Clicked="Button_Clicked"/>
+
+                <Button x:Name="mostrarSaldo" Style="{StaticResource  alignButton}" Text="Mostrar saldo" Clicked="mostrarSaldo_Clicked"/>
+            </StackLayout>
+
+            <StackLayout Style="{StaticResource  BackgroundStackLayout}" Grid.Row="1" Orientation="Vertical">
+                <Label Style="{StaticResource alignLabel}" x:Name="lblNumConta" Text="Número da conta: " HorizontalOptions="Start"/>
+                <Label Style="{StaticResource alignLabel}" HorizontalOptions="Start" x:Name="lblSaldo" Text="Saldo: "/>
+            </StackLayout>
+
+            <ScrollView Grid.Row="2" Orientation="Horizontal" HorizontalScrollBarVisibility="Always" BackgroundColor="White" Margin="1">
+                <StackLayout Style="{StaticResource  BackgroundStackLayout}" Orientation="Horizontal">
+                    <Button Style="{StaticResource  scrollButton}" x:Name="novaChave" Text="Cadastrar nova chave" Clicked="novaChave_Clicked" HorizontalOptions="End"/>
+                    <Button Style="{StaticResource  scrollButton}" x:Name="PIX" Text="PIX" HorizontalOptions="End"/>
+                </StackLayout>
+            </ScrollView>
+
         </Grid>
     </ContentPage.Content>
 </ContentPage>

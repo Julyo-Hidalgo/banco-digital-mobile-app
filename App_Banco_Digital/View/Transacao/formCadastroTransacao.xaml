@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="App_Banco_Digital.View.ChavePix.ChavePix">
+             x:Class="App_Banco_Digital.View.Transacao.formCadastroTranscao">
     <ContentPage.Content>
         <StackLayout Style="{StaticResource Background}">
             <Label Text="Digite a chave pix do destinatário: "/>
@@ -9,8 +9,6 @@
             <Label Text="Digite o valor: "/>
             <Entry x:Name="txtValor" Keyboard="Numeric" />
             <Button x:Name="btn_transacao" Text="Efetuar transação" Clicked="btn_transacao_Clicked"/>
-
-            <Button x:Name="btn_cadastrar" Text="Cadastrar chave" Clicked="Button_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

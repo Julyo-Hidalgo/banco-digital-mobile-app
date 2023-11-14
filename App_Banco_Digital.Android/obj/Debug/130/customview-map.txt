@@ -1,54 +1,54 @@
-@string/appbar_scrolling_view_behavior;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
-alpha;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
-alpha;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
-androidx.appcompat.widget.Toolbar;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\fallbacktoolbardonotuse.xml
-androidx.appcompat.widget.Toolbar;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
-androidx.appcompat.widget.Toolbar;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
-androidx.appcompat.widget.Toolbar;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\toolbar.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
-attr;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
+alpha;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
+alpha;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
+attr;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
-cache-path;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\130\res\values\colors.xml
-com.google.android.material.appbar.AppBarLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\flyoutcontent.xml
-com.google.android.material.appbar.AppBarLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
-com.google.android.material.appbar.AppBarLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
-com.google.android.material.bottomnavigation.BottomNavigationView;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
-com.google.android.material.tabs.TabLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\fallbacktabbardonotuse.xml
-com.google.android.material.tabs.TabLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
-com.google.android.material.tabs.TabLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\tabbar.xml
-declare-styleable;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
-external-cache-path;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+com.google.android.material.appbar.AppBarLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\tabbar.xml
+declare-styleable;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
+external-cache-path;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
-FrameLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
-item;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
-LinearLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
+FrameLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
+item;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
+LinearLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
 monochrome;obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher.xml
-paths;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-resources;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
-resources;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\strings.xml
-resources;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
+paths;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
+resources;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\strings.xml
+resources;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
 resources;obj\Debug\130\res\values\colors.xml
 resources;obj\Debug\130\res\values\styles.xml
-set;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
-set;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromright.xml
-set;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
-set;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoright.xml
-string;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\strings.xml
-style;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
+set;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
+set;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromright.xml
+set;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
+set;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoright.xml
+string;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\strings.xml
+style;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
 style;obj\Debug\130\res\values\styles.xml
-translate;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
-translate;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromright.xml
-translate;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
-translate;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
-xamarin.forms.platform.android.ShellFlyoutLayout;D:\JUlyo lindão\App_Banco_Digital\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\flyoutcontent.xml
+translate;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
+translate;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromright.xml
+translate;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
+translate;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\julyo\banco-digital-mobile-app\App_Banco_Digital.Android\obj\Debug\130\lp\54\jl\res\layout\flyoutcontent.xml
