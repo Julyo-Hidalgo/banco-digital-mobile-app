@@ -3,21 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.Correntista.formCadastro">
     <ContentPage.Content>
-        <StackLayout Style="{StaticResource  Background}">
-            <Label HorizontalOptions="Center" FontSize="Large">Cadastro de correntista:</Label>
-            <Label>Nome</Label>
-            <Entry x:Name="txtNome" MaxLength="80"/>
+        <StackLayout Style="{StaticResource  BackgroundStackLayout}" Spacing="50">
+            <Label Style="{StaticResource alignLabel}" FontSize="25">Cadastro de correntista:</Label>
 
-            <Label>Cpf</Label>
-            <Entry x:Name="txtCpf" Keyboard="Text" MaxLength="11"/>
+            <Entry Style="{StaticResource alignEntry}" Placeholder="Digite seu nome:" x:Name="txtNome" MaxLength="80"/>
 
-            <Label>Data de nascimento</Label>
-            <DatePicker x:Name="dpDataNasc" Format="dd/MM/yyyy" />
+            <Entry Style="{StaticResource alignEntry}" Placeholder="Digite seu CPF:" x:Name="txtCpf" Keyboard="Text" MaxLength="11"/>
 
-            <Label>Senha</Label>
-            <Entry x:Name="txtSenha" />
+            <DatePicker HorizontalOptions="CenterAndExpand" BackgroundColor="White" x:Name="dpDataNasc" Format="dd/MM/yyyy" />
 
-            <Button Text="cadastrar" Clicked="Button_Clicked"/>
+            <Entry Style="{StaticResource alignEntry}" IsPassword="True" x:Name="txtSenha" Placeholder="Digite uma senha:"/>
+
+            <Button Style="{StaticResource alignButton}" HorizontalOptions="Fill" Text="cadastrar" Clicked="Button_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

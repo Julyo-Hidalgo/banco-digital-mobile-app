@@ -5,9 +5,9 @@
     <ContentPage.Content>
         <Grid Style="{StaticResource Background}">
             <Grid.RowDefinitions>
-                <RowDefinition />
-                <RowDefinition />
-                <RowDefinition />
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="150"/>
             </Grid.RowDefinitions>
             
             <Grid.ColumnDefinitions>
@@ -16,8 +16,6 @@
 
             <StackLayout Style="{StaticResource  BackgroundStackLayout}" Grid.Row="0" Orientation="Horizontal" BackgroundColor="Black">
                 <Button Style="{StaticResource  alignButton}" Text="Trocar conta"/>
-                
-                <Button Style="{StaticResource  alignButton}" Text="Pix" Clicked="Button_Clicked"/>
 
                 <Button x:Name="mostrarSaldo" Style="{StaticResource  alignButton}" Text="Mostrar saldo" Clicked="mostrarSaldo_Clicked"/>
             </StackLayout>
@@ -25,12 +23,14 @@
             <StackLayout Style="{StaticResource  BackgroundStackLayout}" Grid.Row="1" Orientation="Vertical">
                 <Label Style="{StaticResource alignLabel}" x:Name="lblNumConta" Text="Número da conta: " HorizontalOptions="Start"/>
                 <Label Style="{StaticResource alignLabel}" HorizontalOptions="Start" x:Name="lblSaldo" Text="Saldo: "/>
+                <Button Style="{StaticResource  alignButton}" HorizontalOptions="StartAndExpand" Text="Ver extrato" x:Name="btnVerExtrato" Clicked="btnVerExtrato_Clicked"/>
             </StackLayout>
 
             <ScrollView Grid.Row="2" Orientation="Horizontal" HorizontalScrollBarVisibility="Always" BackgroundColor="White" Margin="1">
                 <StackLayout Style="{StaticResource  BackgroundStackLayout}" Orientation="Horizontal">
                     <Button Style="{StaticResource  scrollButton}" x:Name="novaChave" Text="Cadastrar nova chave" Clicked="novaChave_Clicked" HorizontalOptions="End"/>
-                    <Button Style="{StaticResource  scrollButton}" x:Name="PIX" Text="PIX" HorizontalOptions="End"/>
+                    <Button Style="{StaticResource  alignButton}" Text="Pix" Clicked="Button_Clicked"/>
+                    <Button Style="{StaticResource  scrollButton}" x:Name="pagar" Text="Pagar" HorizontalOptions="End" Clicked="pagar_Clicked"/>
                 </StackLayout>
             </ScrollView>
 

@@ -88,4 +88,5 @@ D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\ref
 D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\App_Banco_Digital.pdb
 D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\ref\App_Banco_Digital.dll
 D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\ChavePix\AreaChavePix.xaml.g.cs
-D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\Transacao\formCadastroTranscao.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\Transacao\formCadastroTransacao.xaml.g.cs
+D:\julyo\banco-digital-mobile-app\App_Banco_Digital\obj\Debug\netstandard2.0\View\ChavePix\formExtrato.xaml.g.cs

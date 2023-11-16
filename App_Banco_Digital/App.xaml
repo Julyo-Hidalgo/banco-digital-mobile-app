@@ -11,7 +11,7 @@
         </Style>
         
         <Style TargetType="Grid" x:Key="Background">
-            <Setter Property="BackgroundColor" Value="White"/>
+            <Setter Property="BackgroundColor" Value="Black"/>
         </Style>
         
         <Style TargetType="Label" x:Key="alignLabel">

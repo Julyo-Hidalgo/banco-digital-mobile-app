@@ -9,6 +9,8 @@ using Xamarin.Forms.Xaml;
 using App_Banco_Digital.Model;
 using App_Banco_Digital.View;
 using Xamarin.Essentials;
+using App_Banco_Digital.View.ChavePix;
+using App_Banco_Digital.View.Transacao;
 
 namespace App_Banco_Digital.View.Correntista
 {
@@ -49,6 +51,16 @@ namespace App_Banco_Digital.View.Correntista
         public void setSaldo(Conta conta)
         {
             lblSaldo.Text += Convert.ToString(conta.saldo);
+        }
+
+        private void btnVerExtrato_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new formExtrato());
+        }
+
+        private void pagar_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new formCadastroTranscao());
         }
     }
 }

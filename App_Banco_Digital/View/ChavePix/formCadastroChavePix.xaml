@@ -3,12 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_Banco_Digital.View.ChavePix.formCadastroChavePix">
     <ContentPage.Content>
-        <StackLayout Style="{StaticResource Background}">
+        <StackLayout Style="{StaticResource BackgroundStackLayout}" Spacing="50">
 
-            <Label Text="Digite a chave pix: "/>
-            <Entry x:Name="txtChave" Keyboard="Numeric" MaxLength="11"/>
+            <Label Style="{StaticResource alignLabel}" Text="Cadastro de chave pix" FontSize="25"/>
+            <Entry Style="{StaticResource alignEntry}" x:Name="txtChave" Keyboard="Numeric" MaxLength="11" Placeholder="Digite o seu CPF:"/>
 
-            <Button x:Name="btn_salvar" Text="Salvar" Clicked="btn_salvar_Clicked"/>
+            <Button Style="{StaticResource alignButton}" HorizontalOptions="Fill" x:Name="btn_salvar" Text="Salvar" Clicked="btn_salvar_Clicked"/>
 
         </StackLayout>
     </ContentPage.Content>
